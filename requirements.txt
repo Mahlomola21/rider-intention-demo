@@ -1,0 +1,20 @@
+# ============================================================
+# REQUIREMENTS FILE
+# ------------------------------------------------------------
+# Below are all the dependencies needed to run the
+# "Two-Wheeler Rider Intention Prediction" Streamlit web app.
+#
+# To install these dependencies, run the following command:
+#     pip install -r requirements.txt
+#
+# Make sure you are in your project directory before running it.
+# ============================================================
+
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+pip
+setuptools
